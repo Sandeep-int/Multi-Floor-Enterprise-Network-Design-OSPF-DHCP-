@@ -32,20 +32,20 @@
 - Segmentation: Mastered VLAN isolation techniques fundamental to Zero-Trust architectures
 - Scalability: Practiced automated deployment workflows required for large-scale environments
 
-## **Evidence**
+### **Evidence**
 
-### **1. Enterprise Network Topology**
-![Enterprise Network Topology](Enterprise_Network_Topology.png)
+#### **1. Enterprise Network Topology**
+![Enterprise Network Topology](README/Enterprise_Network_Topology.png)
 *Detailed multi-floor architecture featuring a redundant three-router core and segmented departmental floors.*
 
-### **2. OSPF Routing Table & Convergence**
-![OSPF Routing Table Convergence](OSPF_Routing_Table_Convergence.png)
+#### **2. OSPF Routing Table & Convergence**
+![OSPF Routing Table Convergence](README/OSPF_Routing_Table_Convergence.png)
 *Verification of OSPF convergence showing dynamic route propagation across all network segments.*
 
-### **3. DHCP Infrastructure & Exclusions**
-![DHCP Pool and Exclusions](DHCP_Pool_and_Exclusions.png)
+#### **3. DHCP Infrastructure & Exclusions**
+![DHCP Pool and Exclusions](README/DHCP_Pool_and_Exclusions.png)
 *Automated address allocation setup for corporate departments, including critical IP exclusions for gateway integrity.*
 
-### **4. End-to-End Connectivity Verification**
-![End-to-End Connectivity Verification](End-to-End_Connectivity_Verification.png)
+#### **4. End-to-End Connectivity Verification**
+![End-to-End Connectivity Verification](README/End-to-End_Connectivity_Verification.png)
 *ICMP Echo Request validation proving 100% reachability between different floor subnets.*
